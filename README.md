@@ -1,4 +1,4 @@
-https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FgFGNVXkr&urlhash=6ElV&mt=x2KH5fngU5cJm-Y61RijWBXbb3Xe9GLUNneSod2cFcgPA9MWH0VlEYg4qSusx5hbmkLxzoPUIhWv3UHaiOanWIcqZPH903G7xuqdoAefVfoT5Kwz3Lp23qk9WJw&isSdui=true
+https://loan-approval-predictor-lkau3c75g5pedq2vfxvh4x.streamlit.app/
 # 💳 LoanSense AI — Streamlit Loan Predictor
 
 ## Project Structure
